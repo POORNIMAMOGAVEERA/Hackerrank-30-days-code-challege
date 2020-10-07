@@ -1,1 +1,2 @@
-# Hackerrank-30-days-code-challege
+# Hackerrank python
+Python basis
